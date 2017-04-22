@@ -1,3 +1,3 @@
 # hello-world
 figuring out
-I'm no the right track.
+I'm on the right track./*The day has been good*
